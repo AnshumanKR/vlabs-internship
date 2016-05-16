@@ -1,0 +1,15 @@
+#+title: Daily work log for <Name>
+
+* Month of May
+** [2016-05-16 Mon]
+   + What is the task I was assigned today?
+   + What did I get done against each task?
+
+** [2016-05-17 Tue]
+   
+
+** Weekly  Summary
+   + What are the insights gained?
+   + What is my footprint in the realization of the project?
+* Month of June
+* Month of July
