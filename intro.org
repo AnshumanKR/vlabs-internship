@@ -26,3 +26,7 @@
 ** Rest API
 ** Composite API
 * Life Cycle of a Web Application
+* List of Technologies
+  - [[https://www.python.org/][Python]]
+  - [[https://www.javascript.com/][Javascript]]
+  - [[http://www.flask.pocoo.org/][Flask]]
