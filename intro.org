@@ -30,3 +30,6 @@
   - [[https://www.python.org/][Python]]
   - [[https://www.javascript.com/][Javascript]]
   - [[http://www.flask.pocoo.org/][Flask]]
+* Diagram
+  [[./diagrams/IMG_20160517_092640205.jpg][Diagram for Flow of Request]]
+
