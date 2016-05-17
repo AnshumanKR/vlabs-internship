@@ -1,10 +1,14 @@
-#+title: Daily work log for <Name>
+#+title: Daily work log for Anshuman Karthik R
 
 * Month of May
 ** [2016-05-16 Mon]
    + What is the task I was assigned today?
+   Today was about familiarizing ourselves with shell commands, version control and Emacs. 
    + What did I get done against each task?
-
+   I installed softwares and packages to set up our laptops. This helped me review the basic 
+   shell commands. I was then taught the basics of Git (version control) and I later applied
+   this in creating my repository for the internship. Finally, I was taught the basic structure 
+   of emacs and I played around with it, learning some of its commands and functionalities. 
 ** [2016-05-17 Tue]
    
 
