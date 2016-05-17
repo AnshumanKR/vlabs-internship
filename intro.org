@@ -1,0 +1,28 @@
+#+TITLE: Building a Web Application : Ground Up to the Cloud
+#+Author: Anshuman Karthik R
+#+Date: [2016-05-17 Tue]
+
+* Broad Overview
+** The Main Aim 
+   We're going to be looking at various features pertaining to web
+   applications.  This includes the working of a web application, and
+   the life cycle, which can further be divided into respective
+   sub-categories. 
+** The Server-Client Model
+   Web applications work on a server client model.  The server side
+   application is stored in a server, which is also linked to a
+   database. The database stores all relevant data, which is also
+   maintained even if the application is not running. The client uses
+   a dressed up application in the browser, which provides the
+   platform for him to send his request.
+** The Interaction Between the Client and the Server
+   The client sends a request from the browser through a http, which
+   then makes its way to the server and subsequently the server side
+   application. The server side application upon responding to the
+   request, sends the response back to the browser, from where the
+   client sees it. 
+* Interfaces 
+  The interfaces can be divided into two:
+** Rest API
+** Composite API
+* Life Cycle of a Web Application
