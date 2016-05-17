@@ -35,18 +35,27 @@
 
 * Data Models
 ** Relations
-   We covered the different types of relations. Assuming basic knowledge of relations, we also need to know that for a set B,
+   We covered  different types of relations. Assuming basic knowledge of relations and what they are, we also need to know that for a set B,
    B - at least 0
    B? - at most 1
    B!-  exactly 1
    B+- at least 1
-   [A,B]- A and B are relations and inverse of each other.
+   [A,B]- A and B are relations and inverses of each other.
  
 ** Systems
-   Systems take in inputs and give out a particular output. This happens when state variables are changed, due to the given input.
-   Seeing as a relation connects state variables with each other, a change in one would also result in a change in another. Here,
-   we focus on what the changes are, as supposed to how the change takes place. 
+   Systems take in inputs and give out a particular output. This
+   happens when state variables are changed, due to the given input.
+   Seeing as a relation connects state variables with each other, a
+   change in one would also result in a change in another. Here, we
+   focus on what the changes are, as supposed to how the change takes
+   place.
 ** Entities
-   For every entity type, we have an entity set. Fundamentally, we have as entity as something that stores data. Now it is necessary
-   to analyze the user requirements to construct suitable relations within the system. This can also conveniently be analyzed with 
-   Entity Relation (ER) Diagrams. 
+   For every entity type (can be abstract), we have an entity
+   set. Fundamentally, we have as entity as something that stores
+   data. Now it is necessary to analyze the user requirements to
+   construct suitable relations within the system. This can also
+   conveniently be analyzed with Entity Relation (ER) Diagrams. These
+   basically involve representing entities as circles, connecting
+   them with arrows, signifying the relations they have with each
+   other. 
+** 
