@@ -10,7 +10,13 @@
    this in creating my repository for the internship. Finally, I was taught the basic structure 
    of emacs and I played around with it, learning some of its commands and functionalities. 
 ** [2016-05-17 Tue]
-   
+   +  Familiarization with web applications and data models. Discrete math
+     implementation in said data models. Further functionality of emacs was
+     explored.
+`  + After learning said principles, I made and edited a document about web
+     applications. This reviewed emacs and webapp principles. Then I completed
+     the data model for the system that we are designing- the email user
+     database.   
 
 ** Weekly  Summary
    + What are the insights gained?

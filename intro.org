@@ -1,7 +1,7 @@
 #+TITLE: Building a Web Application : Ground Up to the Cloud
 #+Author: Anshuman Karthik R
 #+Date: [2016-05-17 Tue]
-
+1.
 * Broad Overview
 ** The Main Aim 
    We're going to be looking at various features pertaining to web
@@ -33,6 +33,7 @@
 * Diagram
   [[./diagrams/IMG_20160517_092640205.jpg][Diagram for Flow of Request]]
 
+2.
 * Data Models
 ** Relations
    We covered  different types of relations. Assuming basic knowledge of relations and what they are, we also need to know that for a set B,
@@ -59,3 +60,17 @@
    them with arrows, signifying the relations they have with each
    other. 
 ** 
+3. 
+* Operations
+
+                                                 
+|-----------------------+-------------+-------------+--------+---------|
+| Operation             | Credentials | Referential | Effect | Remarks |
+| Signature             |             | Integrity   | and/or |         |
+|                       |             |             | Output |         |
+|-----------------------+-------------+-------------+--------+---------|
+| getRole(user,session) |             |s:sessionSet |        |         |
+|                       |             |             |        |         |
+|-----------------------+-------------+-------------+--------+---------|
+|                       |             |             |        |         |
+
