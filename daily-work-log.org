@@ -18,6 +18,13 @@
      the data model for the system that we are designing- the email user
      database.   
 
+** [2016-05-18 Wed]
+   + Familiarization with Object Oriented Programming 
+   + Creating objects, classes and methods for our application. This was after
+     understanding the basics. The test cases were also supposed to be covered,
+     which I did not complete.
+** [2016-05-19 Thu]
+
 ** Weekly  Summary
    + What are the insights gained?
    + What is my footprint in the realization of the project?
