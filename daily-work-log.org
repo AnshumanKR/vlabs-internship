@@ -28,6 +28,12 @@
      focus on the session.
    + All the objects and methods were done. Debugging and testing the test case
      codes were not completed. 
+** [2016-05-20 Fri]
+   + Test cases and object creation. Familiarization with ORM was also expected
+   + The system object was created and subsequent classes were modified to
+     include the user and session lists as pertaining to the system. System
+     methods were created along with some static methods and their respective
+     methods. ORM was not completed. (SQLAlchemy Framework)
 ** Weekly  Summary
    + What are the insights gained?
    + What is my footprint in the realization of the project?
