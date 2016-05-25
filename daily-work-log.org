@@ -37,5 +37,16 @@
 ** Weekly  Summary
    + What are the insights gained?
    + What is my footprint in the realization of the project?
+** [2016-05-23 Mon]
++ I have done reading on AngularJS. The python tasks assigned to me weren't
+  completely executed, but sufficient progress is being made.
+** [2016-05-24 Tue]
+   I have been introduced to SQL alchemy. I worked on the commands for the
+   System object in DB form. I also have understood how databases work as well
+   as using them and modifying them with SQL.
+** [2016-05-25 Wed]
+   I wrote the test cases for the SQLAlchemy code, and then worked on Flask. I
+   wrote the basic code for the Rest APIs but didn't write the test cases for
+   them yet.  
 * Month of June
 * Month of July
