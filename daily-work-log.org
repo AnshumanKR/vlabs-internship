@@ -48,5 +48,13 @@
    I wrote the test cases for the SQLAlchemy code, and then worked on Flask. I
    wrote the basic code for the Rest APIs but didn't write the test cases for
    them yet.  
+** [2016-05-26 Thu]
+   + Today we worked on the test cases for the rest API. I understood more
+     about Flask and started understanding various tools of AngularJS. The rest
+     API is yet to be complete.  
+   
+** [2016-05-26 Fri]
+   Today we finished the Rest API and tested it fully. The front end was not
+   yet started, but more concepts regarding AngularJS were understood. 
 * Month of June
 * Month of July
