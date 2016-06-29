@@ -1,5 +1,4 @@
 #+title: Daily work log for Anshuman Karthik R
-
 * Month of May
 ** [2016-05-16 Mon]
    + What is the task I was assigned today?
@@ -56,5 +55,111 @@
 ** [2016-05-26 Fri]
    Today we finished the Rest API and tested it fully. The front end was not
    yet started, but more concepts regarding AngularJS were understood. 
+** [2016-05-30 Mon]
+   Taken Leave as I was in Chennai.
+** [2016-05-31 Tue]
+   Taken leave as I was in Chennai.
 * Month of June
+** [2016-06-01 Wed]
+   Taken leave as I was in Chennai.
+   
+** [2016-06-02 Thu]
+   Today I cleaned up the front end of the application. Having missed a couple
+   of days, I had to catch up on concepts in AngularJS regarding MVC and
+   payloads.
+** [2016-06-03 Fri]
+   The presentations were made today regarding the application. I have
+   understood the basic concepts behind an end to end application. Although, I
+   still need to perfect my front end as it was a bit rushed.
+** Weekly Summary
+   We completed the web application end to end. The idea of various frameworks
+   for APIs,DBMS and front end development has been understood to a basic extent.
+** [2016-06-06 Mon]
+   Today, we understood a simple Javascript framework; P5. We learned how to
+   edit and manipulate simple canvases. We started to attempt a simple distance
+   time graph with animations and discontinuities.
+** [2016-06-07 Tue]
+   Today we perfected our distance time graph and showed it to
+   Prof. Venkatesh. We were then assigned the task of using infinite iterations
+   to create simple examples. This was based on the concept of a discrete
+   dynamic system.
+** [2016-06-08 Wed]
+   We started working on a finite iteration, which we will then extend
+   infinitely. We started on Atlas, a simple word game that applies this in an
+   extended manner.
+** [2016-06-09 Thu]
+   We finished Atlas. We started working on an infinite, but discretely
+   operated system. This was a simple game of people throwing a ball to each
+   other randomly and infinitely.
+** [2016-06-10 Fri]
+   We finished the ball game today. We are going to start styling
+   everything, and will continue coming up with more examples, to give more
+   breadth to the project.
+
+** Weekly Summary
+   We have understood the mathematical side of computational discrete dynamic
+   systems. The idea of animation and its implementation has been thoroughly ingrained.
+** [2016-06-13 Mon]
+   We started a discrete dynamic application regarding a 3 way traffic
+   junction. This was regarding an input of an abstract x and the return of an
+   f(x), not necessarily mathematical.
+** [2016-06-14 Tue]
+   We continued the 2 programs, the second one being the plot of a difference
+   equations and its corresponding iterations. 
+** [2016-06-15 Wed]
+   Under the guidance of Professor Venkatesh, we continued with the programs,
+   now trying to format the applications into a 3 paneled interface. 
+** [2016-06-16 Thu]
+   Solidified the logic of our programs, by testing boundary cases. Also, we
+   styled our programs to make the User Experience better. We also had a look
+   at the labs and the animation of various experiments.
+** [2016-06-17 Fri]
+   We presented our final applications to the professor and started exploring
+   the idea of automating our examples by creating a simple framework to plot
+   discrete dynamic systems. I also started exploring some graphing libraries
+   such as plotly.js and chart.js.
+** Weekly Summary
+   We have become more comfortable with p5 and have understood how to represent
+   infinite iteration using animations. Moreover, we have also understood the
+   applications of infinite iterations.
+** [2016-06-20 Mon]
+   We have now changed our project, and we are exploring methods to automate
+   conversion of Flash to JS. This is applicable to the labs that we are
+   going to start working on. The discrete dynamic systems work seems to have taken a backseat
+   for now.
+
+** [2016-06-21 Tue]
+   Taken one day leave for Sponsorship meetings
+** [2016-06-22 Wed]
+   Having taken a leave for the previous day, I caught up with my team
+   members. We looked at various tools for the given conversion, for instance,
+   Swiffy. We also looked at Google Web Studio as a code generator.
+ 
+** [2016-06-23 Thu]
+   We further explored the concept of automating the procedure of conversion
+   from Flash to JS. We looked at a fellow teammate's work to try and
+   understand a general procedure to go about the process, before automating
+   it. We, however ran into issues with Google Web Studio, as it is a Beta
+   release.
+** [2016-06-24 Fri]
+   We did a little more online research before our evening meeting. In the
+   meeting, our problem definition was changed to building *one* experiment from
+   scratch and documenting the procedure undergone and the tools used. The
+   direct automation issue has been put on hold for now, but our work can be
+   used to develop it further.
+** Weekly Summary
+   We have changed our project twice, so much progress has not been made. Effort will
+   be put to convert the required experiment to the given format.
+** [2016-06-27 Mon]
+   We worked on understanding code of an already converted experiment,
+   basically looking at online photo editing tools for performing simple
+   animations. We can use p5 for performing the animations after understanding
+   how to deconstruct the experiment interface into different objects.
+ 
+** [2016-06-28 Tue]
+   We started identifying the reusable parts of the existing code. This,
+   however turned out to be unproductive as the control flow and
+   interactivity had some issues on some laptops. We also looked at more
+   complex animation methods in p5. However, we didn't document this, as none
+   of it showcases solid progress yet. 
 * Month of July
