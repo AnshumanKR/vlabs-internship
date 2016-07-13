@@ -1,0 +1,26 @@
+#+TITLE: Internship Report - VLEAD Summer 2016
+
+* Presenters
++ Anshuman Karthik, Indian Institute of Technology Madras
++ Harsha Vattem, Indian Institute of Technology, Kharagpur
+* Abstract
+  To meet the needs of colleges without adequate laboratory facilities, Virtual
+  Labs provides online lab simulations. Many of the labs and associated
+  animations are created using Flash. Some of the labs are built with
+  JavaScript. Using Flash-based labs provides compatibility issues and hence,
+  conversion of these labs is a dire necessity. In this project, we have converted
+  the majority of the experiments in the Molecular Absorption Spectroscopy Lab
+  (made by IIIT Hyderabad) using pure Javascript. We have also explored two major
+  tools that could be used for similar lab building to make the entire process
+  easier. We have alos come across, but not explored in depth various other
+  online frameworks and tools that can be used to do the same.
+* Acknowledgements
+  We would like to acknowledge the guidance given to us by Professor Venkatesh
+  Chopella of IIIT Hyderabad. He has been key in steering us in the right
+  direction by suggesting paths of exploration as well as helping us understand
+  the relevance of what we were doing. We would also like to thank the mentors at
+  VLEAD for making our life simple and helping us understand basics of Linux and
+  Git.        
+* The Pure JS Approach
+This
+** Methodology 

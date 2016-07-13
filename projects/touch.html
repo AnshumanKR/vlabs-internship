@@ -1,0 +1,26 @@
+<html>
+<head>
+Input for the Start and Stop Wavelengths
+</head>
+<body background="image-specific/input-form.png">
+<input type="text" style="position:fixed;top:297px;left:395px;width:5%;"
+       ></input>
+<input type="text" style="position:fixed;top:297px;left:500px;width:5%;"
+       ></input>
+ <center><button onclick="popitup(result.html)"
+ style="position:fixed;top:630px;left:590px;">Submit and
+ Graph</button></center>
+</body>
+<script type="text/javascript">
+function popitup(url) {
+        // Opens a new browser window called newwindow. url specifies the URL of the page to open.
+        newwindow=window.open(url,'name','height=300,width=250',"_parent");
+        // Sets focus to the new window if the focus is on the previous page.
+        if (window.focus) {
+            newwindow.focus();
+        }
+        return false;
+    }
+
+</script>
+</html>
